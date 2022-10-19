@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="Shravan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shravanllll&theme=react-dark&area=true" width="100%">
+
